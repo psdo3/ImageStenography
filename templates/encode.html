@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <title>
+        Encoding File
+    </title>
+    <h1>
+        Encoding File
+    </h1>
+    <body>
+        <form method=post enctype=multipart/form-data>
+            <input type = file name = inputFile>
+            <input type = text name = hiddenMessage>
+            <input type = text name = outputFileName>
+            <input type=submit value=Upload>
+        </form>
+    </body>
+    <form action=/decode method=post enctype=multipart/form-data>
+        <input type=submit value=Decode>
+    </form>
+    <form action=/ method=post enctype=multipart/form-data>
+        <input type=submit value=Main>
+    </form>
+</html>
