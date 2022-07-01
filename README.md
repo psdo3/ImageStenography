@@ -13,9 +13,7 @@ A program that allows the user to encode a message into an image by corverting e
 
 ## Installation
 
-You will need to use pip install for several modules
-To be able to use encryption you will need to install pycryptodome (NOTE this is not complete and will do nothing)
-To be able to use FLASK you will need to follow the [installation](https://flask.palletsprojects.com/en/2.1.x/installation/) on their main website
+You will need to use pip install for several modules. To be able to use encryption you will need to install pycryptodome (NOTE this is not complete and will do nothing). To be able to use FLASK you will need to follow the [installation](https://flask.palletsprojects.com/en/2.1.x/installation/) on their main website
 
 ## Support
 
